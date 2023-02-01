@@ -32,7 +32,7 @@ I made variable **raw_data** to extract all text bellow the image. In pipelines 
 I noticed that sometimes dimensions can be in the first row bellow the image. If that's the case, then media value is empty.
 
 
-## Task 4 - task_4 file
+## Task 4
 
 - **INNER JOIN** - all matches in both tables
 - **LEFT JOIN** - all matches in both tables + remaining rows from left table
